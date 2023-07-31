@@ -1,4 +1,4 @@
-# fancy-font-generator-
+# Fancy font generator 
 Fancy Font Generator for Instagram and Social Media
 The Fancy Font Generator for Instagram and Social Media is a powerful tool designed to enhance your social media presence and captivate your audience with eye-catching text styles. This repository contains a collection of tools and resources to generate and apply various fancy fonts, making your posts, stories, and captions stand out from the crowd.
 
